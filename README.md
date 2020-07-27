@@ -6,7 +6,7 @@ I have now participated in two live projects at The Tech Academy. In these proje
  
 ## Django Live Project
  
-In this project, we were tasked with creating an app that harnesses an API to create a live feed of information on whichever subject we chose. During this project, I did a lot of work on designing my pages with the use of Bootstrap and conventional CSS. The project was only a two week sprint and I was working at the time so I didn't get to progress as far as I would have liked to have, but I made the most of the experience as I could have in the time. My understanding of the Django framework is a lot more clear than it was and I understand how it all ties together and works. I didn't get to work on using my API at all so the most of my practice with Django is the fundamentals, and increasing my comfort with Bootstrap. I don't have any interesting code to show because it's pretty simple code, more of my code will be from the MVC project.
+In this project, we were tasked with creating an app that harnesses an API to create a live feed of information on whichever subject we chose. During this project, I did a lot of work on designing my pages with the use of Bootstrap and conventional CSS. The project was only a two week sprint and I was working at the time so I didn't get to progress as far as I would have liked, but I made the most of the experience. My understanding of the Django framework is a lot more clearer than it was and I understand how it all functions together. I didn't get to work on using my API at all so the most of my practice with Django are fundamentals, and increasing my comfort with Bootstrap.
 
 ## ASP .Net MVC & Entity Framework Live Project
 
